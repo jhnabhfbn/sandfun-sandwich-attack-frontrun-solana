@@ -12,8 +12,9 @@
 > *Regardless of the node speed, SandFun's transactions are confirmed before the target ones by using jito bundles and priority fees.*
 
 > [!LINKS]
-> <a href="https://sandfun.io">Website</a>
-> <a href="https://sandfun.io/#page-4">FAQS</a>
+
+<a href="https://sandfun.io">Website</a>
+<a href="https://sandfun.io/#page-4">FAQS</a>
 
 
 # Features 🤖
